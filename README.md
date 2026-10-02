@@ -1,8 +1,8 @@
 
 A p5.js tropical cyclone simulation game
 # cyclone-si中文汉化版
-##原作品来自:https://github.com/Monsoonjr99/cyclone-sim\
-##原作者：Monsoonjr99  :https://github.com/Monsoonjr99\
+原作品来自:https://github.com/Monsoonjr99/cyclone-sim\
+原作者：Monsoonjr99  :https://github.com/Monsoonjr99\
  \
 一个台风(飓风)模拟器\
 双击"index.html"启动模拟器\
