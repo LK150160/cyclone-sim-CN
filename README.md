@@ -7,4 +7,4 @@ A p5.js tropical cyclone simulation game
 演示视频:https://www.bilibili.com/video/av766084489/?vd_source=6534fd5ba7735a439183056aae4a7342  \
 这个仅仅加了中文的改版，与原版没有任何区别\
 翻译的时候借用DeepSeek辅助\
-如果翻译错误或者 bug 的话 请谅解\
+如果翻译错误或者 bug 的话 请谅解
