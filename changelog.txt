@@ -1,5 +1,11 @@
 About: A p5.js tropical cyclone simulation game
 
+v0.4.3.01 (2026-11-14):
+    % 界面全面汉化：菜单、设置、信息面板、帮助、分级称谓、地理名词、模拟模式
+    * 风暴命名表全部译为中文（24 套命名系统、2523 个名字槽位；希腊字母备用名
+      按中文习惯译为阿尔法、贝塔…；「元素周期表」彩蛋系统保留元素原名）
+    % 修复双击 index.html（file:// 协议）时地图读取失败导致的崩溃
+    % 修复季节数据未写入存档、当前季节缺失导致的崩溃
 v0.4.25 (2026-05-14):
     * Updated name lists for North Atlantic, Western Pacific, PAGASA, Australian Region, South-West Indian Ocean, South Pacific, and Mediterranean
 v0.4.24 (2025-08-20):

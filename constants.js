@@ -1,5 +1,5 @@
 const TITLE = "气旋模拟器";
-const VERSION_NUMBER = "0.4.25";
+const VERSION_NUMBER = "0.4.3.01";
 
 const SAVE_FORMAT = 7;  // Format #7 in use starting in v0.4
 const EARLIEST_COMPATIBLE_FORMAT = 0;
